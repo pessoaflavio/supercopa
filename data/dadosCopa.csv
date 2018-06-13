@@ -1,0 +1,737 @@
+nome,pais,grupo,clube,paisclube,posicao,idade,jogos,gols
+Igor Akinfeev (captain),Rússia,A,CSKA Moscow,Russia,GK,32,105,0
+Mário Fernandes,Rússia,A,CSKA Moscow,Russia,DF,27,4,0
+Ilya Kutepov,Rússia,A,Spartak Moscow,Russia,DF,24,6,0
+Sergei Ignashevich,Rússia,A,CSKA Moscow,Russia,DF,38,121,8
+Andrei Semyonov,Rússia,A,Akhmat Grozny,Russia,DF,29,6,0
+Denis Cheryshev,Rússia,A,Villarreal,Espanha,MF,27,11,0
+Daler Kuzyayev,Rússia,A,Zenit Saint Petersburg,Russia,MF,25,5,0
+Yury Gazinsky,Rússia,A,Krasnodar,Russia,MF,28,5,0
+Alan Dzagoev,Rússia,A,CSKA Moscow,Russia,MF,27,56,9
+Fyodor Smolov,Rússia,A,Krasnodar,Russia,FW,28,31,12
+Roman Zobnin,Rússia,A,Spartak Moscow,Russia,MF,24,11,0
+Andrey Lunyov,Rússia,A,Zenit Saint Petersburg,Russia,GK,26,3,0
+Fyodor Kudryashov,Rússia,A,Rubin Kazan,Russia,DF,31,18,0
+Vladimir Granat,Rússia,A,Rubin Kazan,Russia,DF,31,12,1
+Aleksei Miranchuk,Rússia,A,Lokomotiv Moscow,Russia,MF,22,17,4
+Anton Miranchuk,Rússia,A,Lokomotiv Moscow,Russia,MF,22,5,0
+Aleksandr Golovin,Rússia,A,CSKA Moscow,Russia,MF,22,18,2
+Yuri Zhirkov,Rússia,A,Zenit Saint Petersburg,Russia,MF,34,83,2
+Aleksandr Samedov,Rússia,A,Spartak Moscow,Russia,MF,33,47,6
+Vladimir Gabulov,Rússia,A,Club Brugge,Belgica,GK,34,10,0
+Aleksandr Yerokhin,Rússia,A,Zenit Saint Petersburg,Russia,MF,28,17,0
+Artem Dzyuba,Rússia,A,Arsenal Tula,Russia,FW,29,23,11
+Igor Smolnikov,Rússia,A,Zenit Saint Petersburg,Russia,DF,29,26,0
+Abdullah Al-Mayouf,Arabia Saudita,A,Al-Hilal,Arabia Saudita,GK,31,10,0
+Mansoor Al-Harbi,Arabia Saudita,A,Al-Ahli,Arabia Saudita,DF,30,39,1
+Osama Hawsawi (captain),Arabia Saudita,A,Al-Hilal,Arabia Saudita,DF,34,134,7
+Ali Al-Bulaihi,Arabia Saudita,A,Al-Hilal,Arabia Saudita,DF,28,3,0
+Omar Hawsawi,Arabia Saudita,A,Al-Nassr,Arabia Saudita,DF,32,41,3
+Mohammed Al-Breik,Arabia Saudita,A,Al-Hilal,Arabia Saudita,DF,25,10,1
+Salman Al-Faraj,Arabia Saudita,A,Al-Hilal,Arabia Saudita,MF,28,42,3
+Yahya Al-Shehri,Arabia Saudita,A,Al-Nassr,Arabia Saudita,MF,27,56,8
+Hattan Bahebri,Arabia Saudita,A,Al-Shabab,Arabia Saudita,MF,25,4,0
+Mohammad Al-Sahlawi,Arabia Saudita,A,Al-Nassr,Arabia Saudita,FW,31,39,28
+Abdulmalek Al-Khaibri,Arabia Saudita,A,Al-Hilal,Arabia Saudita,MF,32,36,0
+Mohamed Kanno,Arabia Saudita,A,Al-Hilal,Arabia Saudita,MF,23,6,1
+Yasser Al-Shahrani,Arabia Saudita,A,Al-Hilal,Arabia Saudita,DF,26,36,0
+Abdullah Otayf,Arabia Saudita,A,Al-Hilal,Arabia Saudita,MF,25,15,1
+Abdullah Al-Khaibari,Arabia Saudita,A,Al-Shabab,Arabia Saudita,MF,21,4,0
+Housain Al-Mogahwi,Arabia Saudita,A,Al-Ahli,Arabia Saudita,MF,30,17,1
+Taisir Al-Jassim,Arabia Saudita,A,Al-Ahli,Arabia Saudita,MF,33,131,18
+Salem Al-Dawsari,Arabia Saudita,A,Villarreal,Espanha,MF,26,32,4
+Fahad Al-Muwallad,Arabia Saudita,A,Levante,Espanha,FW,23,44,10
+Muhannad Assiri,Arabia Saudita,A,Al-Ahli,Arabia Saudita,FW,31,18,4
+Yasser Al-Mosailem,Arabia Saudita,A,Al-Ahli,Arabia Saudita,GK,34,32,0
+Mohammed Al-Owais,Arabia Saudita,A,Al-Ahli,Arabia Saudita,GK,26,6,0
+Motaz Hawsawi,Arabia Saudita,A,Al-Ahli,Arabia Saudita,DF,26,17,0
+Essam El-Hadary (captain),Egito,A,Al-Taawoun,Arabia Saudita,GK,45,157,0
+Ali Gabr,Egito,A,West Bromwich Albion,Inglaterra,DF,29,20,1
+Ahmed Elmohamady,Egito,A,Aston Villa,Inglaterra,DF,30,77,2
+Omar Gaber,Egito,A,Los Angeles FC,EUA,MF,26,23,0
+Sam Morsy,Egito,A,Wigan Athletic,Inglaterra,MF,26,4,0
+Ahmed Hegazi,Egito,A,West Bromwich Albion,Inglaterra,DF,27,44,1
+Ahmed Fathy,Egito,A,Al Ahly,Egito,DF,33,125,3
+Tarek Hamed,Egito,A,Zamalek,Egito,MF,29,20,0
+Marwan Mohsen,Egito,A,Al Ahly,Egito,FW,29,23,4
+Mohamed Salah,Egito,A,Liverpool,Inglaterra,FW,25,57,33
+Kahraba,Egito,A,Al-Ittihad,Arabia Saudita,FW,24,18,3
+Ayman Ashraf,Egito,A,Al Ahly,Egito,DF,27,4,0
+Mohamed Abdel-Shafy,Egito,A,Al-Fateh,Arabia Saudita,DF,32,50,1
+Ramadan Sobhi,Egito,A,Stoke City,Inglaterra,FW,21,22,1
+Mahmoud Hamdy,Egito,A,Zamalek,Egito,DF,23,0,0
+Sherif Ekramy,Egito,A,Al Ahly,Egito,GK,34,22,0
+Mohamed Elneny,Egito,A,Arsenal,Inglaterra,MF,25,60,5
+Shikabala,Egito,A,Al-Raed,Arabia Saudita,FW,32,29,2
+Abdallah Said,Egito,A,KuPS,Finlandia,MF,32,35,6
+Saad Samir,Egito,A,Al Ahly,Egito,DF,29,11,0
+Trézéguet,Egito,A,Kasımpaşa,Turquia,MF,23,23,2
+Amr Warda,Egito,A,Atromitos,Grecia,FW,24,15,0
+Mohamed El-Shenawy,Egito,A,Al Ahly,Egito,GK,29,2,0
+Fernando Muslera,Uruguai,A,Galatasaray,Turquia,GK,31,96,0
+José Giménez,Uruguai,A,Atlético Madrid,Espanha,DF,23,41,4
+Diego Godín (captain),Uruguai,A,Atlético Madrid,Espanha,DF,32,115,8
+Guillermo Varela,Uruguai,A,Peñarol,Uruguai,DF,25,3,0
+Carlos Sánchez,Uruguai,A,Monterrey,Mexico,MF,33,35,1
+Rodrigo Bentancur,Uruguai,A,Juventus,Italia,MF,20,6,0
+Cristian Rodríguez,Uruguai,A,Peñarol,Uruguai,MF,32,104,11
+Nahitan Nández,Uruguai,A,Boca Juniors,Argentina,MF,22,11,0
+Luis Suárez,Uruguai,A,Barcelona,Espanha,FW,31,97,50
+Giorgian De Arrascaeta,Uruguai,A,Cruzeiro,Brasil,FW,24,13,1
+Cristhian Stuani,Uruguai,A,Girona,Espanha,FW,31,40,5
+Martín Campaña,Uruguai,A,Independiente,Argentina,GK,29,1,0
+Gastón Silva,Uruguai,A,Independiente,Argentina,DF,24,17,0
+Lucas Torreira,Uruguai,A,Sampdoria,Italia,MF,22,2,0
+Matías Vecino,Uruguai,A,Internazionale,Italia,MF,26,21,1
+Maxi Pereira,Uruguai,A,Porto,Portugal,DF,34,124,3
+Diego Laxalt,Uruguai,A,Genoa,Italia,MF,25,5,0
+Maxi Gómez,Uruguai,A,Celta Vigo,Espanha,FW,21,4,0
+Sebastián Coates,Uruguai,A,Sporting CP,Portugal,DF,27,30,1
+Jonathan Urretaviscaya,Uruguai,A,Monterrey,Mexico,FW,28,4,0
+Edinson Cavani,Uruguai,A,Paris Saint-Germain,França,FW,31,100,42
+Martín Cáceres,Uruguai,A,Lazio,Italia,DF,31,75,4
+Martín Silva,Uruguai,A,Vasco da Gama,Brasil,GK,35,11,0
+Rui Patrício,Portugal,B,Sporting CP,Portugal,GK,30,68,0
+Bruno Alves,Portugal,B,Rangers,Escocia,DF,36,95,11
+Pepe,Portugal,B,Beşiktaş,Turquia,DF,35,93,5
+Manuel Fernandes,Portugal,B,Lokomotiv Moscow,Russia,MF,32,13,3
+Raphaël Guerreiro,Portugal,B,Borussia Dortmund,Alemanha,DF,24,22,2
+José Fonte,Portugal,B,Dalian Yifang,China,DF,34,29,0
+Cristiano Ronaldo (captain),Portugal,B,Real Madrid,Espanha,FW,33,149,81
+João Moutinho,Portugal,B,Monaco,França,MF,31,108,7
+André Silva,Portugal,B,Milan,Italia,FW,22,21,12
+João Mário,Portugal,B,West Ham United,Inglaterra,MF,25,34,2
+Bernardo Silva,Portugal,B,Manchester City,Inglaterra,FW,23,23,2
+Anthony Lopes,Portugal,B,Lyon,França,GK,27,7,0
+Rúben Dias,Portugal,B,Benfica,Portugal,DF,21,1,0
+William Carvalho,Portugal,B,Sporting CP,Portugal,MF,26,41,2
+Ricardo Pereira,Portugal,B,Porto,Portugal,DF,24,4,0
+Bruno Fernandes,Portugal,B,Sporting CP,Portugal,MF,23,4,0
+Gonçalo Guedes,Portugal,B,Valencia,Espanha,FW,21,8,1
+Gelson Martins,Portugal,B,Sporting CP,Portugal,FW,23,17,0
+Mário Rui,Portugal,B,Napoli,Italia,DF,27,2,0
+Ricardo Quaresma,Portugal,B,Beşiktaş,Turquia,FW,34,75,9
+Cédric,Portugal,B,Southampton,Inglaterra,DF,26,27,1
+Beto,Portugal,B,Göztepe,Turquia,GK,36,13,0
+Adrien Silva,Portugal,B,Leicester City,Inglaterra,MF,29,22,1
+David de Gea,Espanha,B,Manchester United,Inglaterra,GK,27,28,0
+Dani Carvajal,Espanha,B,Real Madrid,Espanha,DF,26,15,0
+Gerard Piqué,Espanha,B,Barcelona,Espanha,DF,31,97,5
+Nacho,Espanha,B,Real Madrid,Espanha,DF,28,16,0
+Sergio Busquets,Espanha,B,Barcelona,Espanha,MF,29,102,2
+Andrés Iniesta,Espanha,B,Barcelona,Espanha,MF,34,126,14
+Saúl,Espanha,B,Atlético Madrid,Espanha,MF,23,10,0
+Koke,Espanha,B,Atlético Madrid,Espanha,MF,26,39,0
+Rodrigo,Espanha,B,Valencia,Espanha,FW,27,5,2
+Thiago,Espanha,B,Bayern Munich,Alemanha,MF,27,28,2
+Lucas Vázquez,Espanha,B,Real Madrid,Espanha,FW,26,6,0
+Álvaro Odriozola,Espanha,B,Real Sociedad,Espanha,DF,22,3,1
+Kepa Arrizabalaga,Espanha,B,Athletic Bilbao,Espanha,GK,23,1,0
+César Azpilicueta,Espanha,B,Chelsea,Inglaterra,DF,28,22,0
+Sergio Ramos (captain),Espanha,B,Real Madrid,Espanha,DF,32,151,13
+Nacho Monreal,Espanha,B,Arsenal,Inglaterra,DF,32,22,1
+Iago Aspas,Espanha,B,Celta Vigo,Espanha,FW,30,9,4
+Jordi Alba,Espanha,B,Barcelona,Espanha,DF,29,61,8
+Diego Costa,Espanha,B,Atlético Madrid,Espanha,FW,29,19,7
+Marco Asensio,Espanha,B,Real Madrid,Espanha,MF,22,11,0
+David Silva,Espanha,B,Manchester City,Inglaterra,FW,32,120,35
+Isco,Espanha,B,Real Madrid,Espanha,MF,26,27,10
+Pepe Reina,Espanha,B,Napoli,Italia,GK,35,36,0
+Yassine Bounou,Marrocos,B,Girona,Espanha,GK,27,11,0
+Achraf Hakimi,Marrocos,B,Real Madrid,Espanha,DF,19,9,1
+Hamza Mendyl,Marrocos,B,Lille,França,DF,20,13,0
+Manuel da Costa,Marrocos,B,İstanbul Başakşehir,Turquia,DF,32,27,1
+Medhi Benatia (captain),Marrocos,B,Juventus,Italia,DF,31,56,2
+Romain Saïss,Marrocos,B,Wolverhampton Wanderers,Inglaterra,DF,28,23,1
+Hakim Ziyech,Marrocos,B,Ajax,Holanda,MF,25,17,8
+Karim El Ahmadi,Marrocos,B,Feyenoord,Holanda,MF,33,50,1
+Ayoub El Kaabi,Marrocos,B,RS Berkane,Marrocos,FW,24,9,11
+Younès Belhanda,Marrocos,B,Galatasaray,Turquia,MF,28,46,4
+Fayçal Fajr,Marrocos,B,Getafe,Espanha,MF,29,23,2
+Munir Mohamedi,Marrocos,B,Numancia,Espanha,GK,29,26,0
+Khalid Boutaïb,Marrocos,B,Yeni Malatyaspor,Turquia,FW,31,17,7
+Mbark Boussoufa,Marrocos,B,Al-Jazira,Emirados Arabes,MF,33,58,7
+Youssef Aït Bennasser,Marrocos,B,Caen,França,MF,21,13,0
+Nordin Amrabat,Marrocos,B,Leganés,Espanha,MF,31,43,4
+Nabil Dirar,Marrocos,B,Fenerbahçe,Turquia,DF,32,34,3
+Amine Harit,Marrocos,B,Schalke 04,Alemanha,MF,20,5,0
+Youssef En-Nesyri,Marrocos,B,Málaga,Espanha,FW,21,15,1
+Aziz Bouhaddouz,Marrocos,B,FC St. Pauli,Alemanha,FW,31,14,3
+Sofyan Amrabat,Marrocos,B,Feyenoord,Holanda,MF,21,5,0
+Ahmed Reda Tagnaouti,Marrocos,B,IR Tanger,Marrocos,GK,22,2,0
+Mehdi Carcela,Marrocos,B,Standard Liège,Belgica,MF,28,20,1
+Alireza Beiranvand,Irã,B,Persepolis,Iran,GK,25,21,0
+Mehdi Torabi,Irã,B,Saipa,Iran,MF,23,16,4
+Ehsan Hajsafi,Irã,B,Olympiacos,Grecia,DF,28,93,6
+Rouzbeh Cheshmi,Irã,B,Esteghlal,Iran,DF,24,9,1
+Milad Mohammadi,Irã,B,Akhmat Grozny,Russia,DF,24,18,0
+Saeid Ezatolahi,Irã,B,Amkar Perm,Russia,MF,21,25,1
+Masoud Shojaei (captain),Irã,B,AEK Athens,Grecia,MF,34,73,8
+Morteza Pouraliganji,Irã,B,Al-Sadd,Qatar,DF,26,26,2
+Omid Ebrahimi,Irã,B,Esteghlal,Iran,MF,30,29,0
+Karim Ansarifard,Irã,B,Olympiacos,Grecia,FW,28,63,16
+Vahid Amiri,Irã,B,Persepolis,Iran,MF,30,35,1
+Mohammad Rashid Mazaheri,Irã,B,Zob Ahan Esfahan,Iran,GK,29,3,0
+Mohammad Reza Khanzadeh,Irã,B,Padideh,Iran,DF,27,11,1
+Saman Ghoddos,Irã,B,Östersund,Suecia,FW,24,7,1
+Pejman Montazeri,Irã,B,Esteghlal,Iran,DF,34,46,1
+Reza Ghoochannejhad,Irã,B,Heerenveen,Holanda,FW,30,42,17
+Mehdi Taremi,Irã,B,Al-Gharafa,Qatar,FW,25,25,11
+Alireza Jahanbakhsh,Irã,B,AZ,Holanda,FW,24,37,4
+Majid Hosseini,Irã,B,Esteghlal,Iran,DF,21,1,0
+Sardar Azmoun,Irã,B,Rubin Kazan,Russia,FW,23,32,23
+Ashkan Dejagah,Irã,B,Nottingham Forest,Inglaterra,FW,31,45,9
+Amir Abedzadeh,Irã,B,Marítimo,Portugal,GK,25,1,0
+Ramin Rezaeian,Irã,B,Oostende,Belgica,DF,28,27,2
+Hugo Lloris (captain),França,C,Tottenham Hotspur,Inglaterra,GK,31,96,0
+Benjamin Pavard,França,C,VfB Stuttgart,Alemanha,DF,22,4,0
+Presnel Kimpembe,França,C,Paris Saint-Germain,França,DF,22,2,0
+Raphaël Varane,França,C,Real Madrid,Espanha,DF,25,41,2
+Samuel Umtiti,França,C,Barcelona,Espanha,DF,24,17,1
+Paul Pogba,França,C,Manchester United,Inglaterra,MF,25,52,9
+Antoine Griezmann,França,C,Atlético Madrid,Espanha,FW,27,52,19
+Thomas Lemar,França,C,Monaco,França,FW,22,10,3
+Olivier Giroud,França,C,Chelsea,Inglaterra,FW,31,72,31
+Kylian Mbappé,França,C,Paris Saint-Germain,França,FW,19,13,3
+Ousmane Dembélé,França,C,Barcelona,Espanha,FW,21,10,1
+Corentin Tolisso,França,C,Bayern Munich,Alemanha,MF,23,7,0
+N'Golo Kanté,França,C,Chelsea,Inglaterra,MF,27,22,1
+Blaise Matuidi,França,C,Juventus,Italia,MF,31,65,9
+Steven Nzonzi,França,C,Sevilla,Espanha,MF,29,3,0
+Steve Mandanda,França,C,Marseille,França,GK,33,27,0
+Adil Rami,França,C,Marseille,França,DF,32,34,1
+Nabil Fekir,França,C,Lyon,França,FW,24,11,2
+Djibril Sidibé,França,C,Monaco,França,DF,25,16,1
+Florian Thauvin,França,C,Marseille,França,FW,25,3,0
+Lucas Hernández,França,C,Atlético Madrid,Espanha,DF,22,3,0
+Benjamin Mendy,França,C,Manchester City,Inglaterra,DF,23,5,0
+Alphonse Areola,França,C,Paris Saint-Germain,França,GK,25,0,0
+Kasper Schmeichel,Dinamarca,C,Leicester City,Inglaterra,GK,31,34,0
+Michael Krohn-Dehli,Dinamarca,C,Deportivo La Coruña,Espanha,MF,35,58,6
+Jannik Vestergaard,Dinamarca,C,Borussia Mönchengladbach,Alemanha,DF,25,16,1
+Simon Kjær (captain),Dinamarca,C,Sevilla,Espanha,DF,29,77,3
+Jonas Knudsen,Dinamarca,C,Ipswich Town,Inglaterra,DF,25,3,0
+Andreas Christensen,Dinamarca,C,Chelsea,Inglaterra,DF,22,15,1
+William Kvist,Dinamarca,C,Copenhagen,Dinamarca,MF,33,79,2
+Thomas Delaney,Dinamarca,C,Werder Bremen,Alemanha,MF,26,26,4
+Nicolai Jørgensen,Dinamarca,C,Feyenoord,Holanda,FW,27,30,8
+Christian Eriksen,Dinamarca,C,Tottenham Hotspur,Inglaterra,MF,26,77,21
+Martin Braithwaite,Dinamarca,C,Bordeaux,França,FW,27,19,1
+Kasper Dolberg,Dinamarca,C,Ajax,Holanda,FW,20,5,1
+Mathias Jørgensen,Dinamarca,C,Huddersfield Town,Inglaterra,DF,28,12,0
+Henrik Dalsgaard,Dinamarca,C,Brentford,Inglaterra,DF,28,10,0
+Viktor Fischer,Dinamarca,C,Copenhagen,Dinamarca,FW,24,18,3
+Jonas Lössl,Dinamarca,C,Huddersfield Town,Inglaterra,GK,29,1,0
+Jens Stryger Larsen,Dinamarca,C,Udinese,Italia,DF,27,12,1
+Lukas Lerager,Dinamarca,C,Bordeaux,França,MF,24,3,0
+Lasse Schöne,Dinamarca,C,Ajax,Holanda,MF,32,35,3
+Yussuf Poulsen,Dinamarca,C,RB Leipzig,Alemanha,FW,23,27,3
+Andreas Cornelius,Dinamarca,C,Atalanta,Italia,FW,25,18,4
+Frederik Rønnow,Dinamarca,C,Brøndby,Dinamarca,GK,25,6,0
+Pione Sisto,Dinamarca,C,Celta Vigo,Espanha,FW,23,13,1
+Mathew Ryan,Austrália,C,Brighton & Hove Albion,Inglaterra,GK,26,43,0
+Milos Degenek,Austrália,C,Yokohama F. Marinos,Japao,DF,24,18,0
+James Meredith,Austrália,C,Millwall,Inglaterra,DF,30,2,0
+Tim Cahill,Austrália,C,Millwall,Inglaterra,FW,38,105,50
+Mark Milligan,Austrália,C,Al-Ahli,Arabia Saudita,DF,32,70,6
+Matthew Jurman,Austrália,C,Suwon Samsung Bluewings,Coreia,DF,28,4,0
+Mathew Leckie,Austrália,C,Hertha BSC,Alemanha,FW,27,52,8
+Massimo Luongo,Austrália,C,Queens Park Rangers,Inglaterra,MF,25,35,5
+Tomi Juric,Austrália,C,Luzern,Suiça,FW,26,34,8
+Robbie Kruse,Austrália,C,VfL Bochum,Alemanha,FW,29,63,5
+Andrew Nabbout,Austrália,C,Urawa Red Diamonds,Japão,FW,25,3,1
+Brad Jones,Austrália,C,Feyenoord,Holanda,GK,36,5,0
+Aaron Mooy,Austrália,C,Huddersfield Town,Inglaterra,MF,27,33,5
+Jamie Maclaren,Austrália,C,Hibernian,Escocia,FW,24,6,0
+Mile Jedinak (captain),Austrália,C,Aston Villa,Inglaterra,MF,33,75,18
+Aziz Behich,Austrália,C,Bursaspor,Turquia,DF,27,22,2
+Daniel Arzani,Austrália,C,Melbourne City,Australia,FW,19,1,0
+Danny Vukovic,Austrália,C,Genk,Belgica,GK,33,1,0
+Josh Risdon,Austrália,C,Western Sydney Wanderers,Australia,DF,25,7,0
+Trent Sainsbury,Austrália,C,Grasshoppers,Suiça,DF,26,34,3
+Dimitri Petratos,Austrália,C,Newcastle Jets,Australia,FW,25,2,0
+Jackson Irvine,Austrália,C,Hull City,Inglaterra,MF,25,18,2
+Tom Rogic,Austrália,C,Celtic,Escocia,MF,25,36,7
+Pedro Gallese,Peru,C,Veracruz,Mexico,GK,28,37,0
+Alberto Rodríguez,Peru,C,Atlético Junior,Colombia,DF,34,58,0
+Aldo Corzo,Peru,C,Universitario,Peru,DF,29,25,0
+Anderson Santamaría,Peru,C,Puebla,Mexico,DF,26,3,0
+Miguel Araujo,Peru,C,Alianza Lima,Peru,DF,23,7,0
+Miguel Trauco,Peru,C,Flamengo,Brasil,DF,25,26,0
+Paolo Hurtado,Peru,C,Vitória de Guimarães,Portugal,MF,27,31,3
+Christian Cueva,Peru,C,São Paulo,Brasil,MF,26,43,8
+Paolo Guerrero (captain),Peru,C,Flamengo,Brasil,FW,34,87,34
+Jefferson Farfán,Peru,C,Lokomotiv Moscow,Russia,FW,33,83,25
+Raúl Ruidíaz,Peru,C,Morelia,Mexico,FW,27,30,4
+Carlos Cáceda,Peru,C,Deportivo Municipal,Peru,GK,26,4,0
+Renato Tapia,Peru,C,Feyenoord,Holanda,MF,22,22,1
+Andy Polo,Peru,C,Portland Timbers,EUA,MF,23,16,1
+Christian Ramos,Peru,C,Veracruz,Mexico,DF,29,65,3
+Wilder Cartagena,Peru,C,Veracruz,Mexico,MF,23,3,0
+Luis Advíncula,Peru,C,Lobos BUAP,Mexico,DF,28,64,0
+André Carrillo,Peru,C,Watford,Inglaterra,FW,27,44,5
+Yoshimar Yotún,Peru,C,Orlando City,EUA,MF,28,72,2
+Edison Flores,Peru,C,AaB,Dinamarca,FW,24,28,9
+José Carvallo,Peru,C,UTC,Peru,GK,32,6,0
+Nilson Loyola,Peru,C,Melgar,Peru,DF,23,3,0
+Pedro Aquino,Peru,C,Lobos BUAP,Mexico,MF,23,12,0
+Nahuel Guzmán,Argentina,D,UANL,Mexico,GK,32,6,0
+Gabriel Mercado,Argentina,D,Sevilla,Espanha,DF,31,20,3
+Nicolás Tagliafico,Argentina,D,Ajax,Holanda,DF,25,4,0
+Cristian Ansaldi,Argentina,D,Torino,Italia,DF,31,5,0
+Lucas Biglia,Argentina,D,Milan,Italia,MF,32,36,1
+Federico Fazio,Argentina,D,Roma,Italia,DF,31,9,1
+Éver Banega,Argentina,D,Sevilla,Espanha,MF,29,62,6
+Marcos Acuña,Argentina,D,Sporting CP,Portugal,MF,26,10,0
+Gonzalo Higuaín,Argentina,D,Juventus,Italia,FW,30,71,31
+Lionel Messi (captain),Argentina,D,Barcelona,Espanha,FW,30,124,64
+Ángel Di María,Argentina,D,Paris Saint-Germain,França,MF,30,94,19
+Franco Armani,Argentina,D,River Plate,Argentina,GK,31,0,0
+Maximiliano Meza,Argentina,D,Independiente,Argentina,MF,26,2,0
+Javier Mascherano,Argentina,D,Hebei China Fortune,China,MF,34,143,3
+Manuel Lanzini,Argentina,D,West Ham United,Inglaterra,MF,25,4,1
+Marcos Rojo,Argentina,D,Manchester United,Inglaterra,DF,27,56,2
+Nicolás Otamendi,Argentina,D,Manchester City,Inglaterra,DF,29,54,4
+Eduardo Salvio,Argentina,D,Benfica,Portugal,MF,27,9,0
+Sergio Agüero,Argentina,D,Manchester City,Inglaterra,FW,30,85,37
+Giovani Lo Celso,Argentina,D,Paris Saint-Germain,França,MF,22,5,0
+Paulo Dybala,Argentina,D,Juventus,Italia,FW,24,12,0
+Cristian Pavón,Argentina,D,Boca Juniors,Argentina,MF,22,5,0
+Willy Caballero,Argentina,D,Chelsea,Inglaterra,GK,36,3,0
+Hannes Þór Halldórsson,Islândia,D,Randers,Dinamarca,GK,34,48,0
+Birkir Már Sævarsson,Islândia,D,Valur,Islandia,DF,33,78,1
+Samúel Friðjónsson,Islândia,D,Vålerenga,Noruega,DF,22,3,0
+Albert Guðmundsson,Islândia,D,PSV Eindhoven,Holanda,FW,20,4,3
+Sverrir Ingi Ingason,Islândia,D,Rostov,Russia,DF,24,18,3
+Ragnar Sigurðsson,Islândia,D,Rostov,Russia,DF,31,75,3
+Jóhann Berg Guðmundsson,Islândia,D,Burnley,Inglaterra,MF,27,65,7
+Birkir Bjarnason,Islândia,D,Aston Villa,Inglaterra,MF,30,65,9
+Björn Bergmann Sigurðarson,Islândia,D,Rostov,Russia,FW,27,10,1
+Gylfi Sigurðsson,Islândia,D,Everton,Espanha,MF,28,55,18
+Alfreð Finnbogason,Islândia,D,FC Augsburg,Alemanha,FW,29,45,11
+Frederik Schram,Islândia,D,Roskilde,Dinamarca,GK,23,3,0
+Rúnar Alex Rúnarsson,Islândia,D,Nordsjælland,Dinamarca,GK,23,3,0
+Kári Árnason,Islândia,D,Aberdeen,Escocia,DF,35,65,4
+Hólmar Örn Eyjólfsson,Islândia,D,Levski Sofia,Bulgaria,DF,27,9,1
+Ólafur Ingi Skúlason,Islândia,D,Kardemir Karabükspor,Turquia,MF,35,35,1
+Aron Gunnarsson (captain),Islândia,D,Cardiff City,País de Gales,MF,29,77,2
+Hörður Björgvin Magnússon,Islândia,D,Bristol City,Inglaterra,DF,25,15,2
+Rúrik Gíslason,Islândia,D,SV Sandhausen,Alemanha,MF,30,45,3
+Emil Hallfreðsson,Islândia,D,Udinese,Italia,MF,33,62,1
+Arnór Ingvi Traustason,Islândia,D,Malmö,Suecia,MF,25,18,5
+Jón Daði Böðvarsson,Islândia,D,Reading,Inglaterra,FW,26,36,2
+Ari Freyr Skúlason,Islândia,D,Lokeren,Belgica,DF,31,54,0
+Dominik Livaković,Croácia,D,Dinamo Zagreb,Croácia,GK,23,1,0
+Šime Vrsaljko,Croácia,D,Atlético Madrid,Espanha,DF,26,35,0
+Ivan Strinić,Croácia,D,Sampdoria,Italia,DF,30,42,0
+Ivan Perišić,Croácia,D,Internazionale,Italia,FW,29,65,17
+Vedran Ćorluka,Croácia,D,Lokomotiv Moscow,Russia,DF,32,98,4
+Dejan Lovren,Croácia,D,Liverpool,Inglaterra,DF,28,38,2
+Ivan Rakitić,Croácia,D,Barcelona,Espanha,MF,30,91,14
+Mateo Kovačić,Croácia,D,Real Madrid,Espanha,MF,24,40,1
+Andrej Kramarić,Croácia,D,1899 Hoffenheim,Alemanha,FW,30,30,8
+Luka Modrić (captain),Croácia,D,Real Madrid,Espanha,MF,32,105,12
+Marcelo Brozović,Croácia,D,Internazionale,Italia,MF,25,34,6
+Lovre Kalinić,Croácia,D,Gent,Belgica,GK,28,10,0
+Tin Jedvaj,Croácia,D,Bayer Leverkusen,Alemanha,DF,22,11,0
+Filip Bradarić,Croácia,D,Rijeka,Croácia,MF,26,4,0
+Duje Ćaleta-Car,Croácia,D,Red Bull Salzburg,Austria,DF,21,1,0
+Nikola Kalinić,Croácia,D,Milan,Italia,FW,30,41,15
+Mario Mandžukić,Croácia,D,Juventus,Italia,FW,32,82,30
+Ante Rebić,Croácia,D,Eintracht Frankfurt,Alemanha,FW,24,15,1
+Milan Badelj,Croácia,D,Fiorentina,Italia,MF,29,37,1
+Marko Pjaca,Croácia,D,Schalke 04,Alemanha,FW,23,16,1
+Domagoj Vida,Croácia,D,Beşiktaş,Turquia,DF,29,58,2
+Josip Pivarić,Croácia,D,Dynamo Kyiv,Ucrania,DF,29,19,0
+Danijel Subašić,Croácia,D,Monaco,França,GK,33,37,0
+Ikechukwu Ezenwa,Nigéria,D,Enyimba,Nigeria,GK,29,24,0
+Brian Idowu,Nigéria,D,Amkar Perm,Russia,DF,26,4,1
+Elderson Echiéjilé,Nigéria,D,Cercle Brugge,Belgica,DF,30,61,3
+Wilfred Ndidi,Nigéria,D,Leicester City,Inglaterra,MF,21,16,0
+William Troost-Ekong,Nigéria,D,Bursaspor,Turquia,DF,24,21,1
+Leon Balogun,Nigéria,D,Mainz 05,Alemanha,DF,29,18,0
+Ahmed Musa,Nigéria,D,CSKA Moscow,Russia,FW,25,71,13
+Oghenekaro Etebo,Nigéria,D,Las Palmas,Espanha,MF,22,14,1
+Odion Ighalo,Nigéria,D,Changchun Yatai,China,FW,28,18,4
+John Obi Mikel (captain),Nigéria,D,Tianjin TEDA,China,MF,31,84,6
+Victor Moses,Nigéria,D,Chelsea,Inglaterra,FW,27,33,11
+Shehu Abdullahi,Nigéria,D,Bursaspor,Turquia,DF,25,24,0
+Simeon Nwankwo,Nigéria,D,Crotone,Italia,FW,26,1,0
+Kelechi Iheanacho,Nigéria,D,Leicester City,Inglaterra,FW,22,17,8
+Joel Obi,Nigéria,D,Torino,Italia,MF,27,17,0
+Daniel Akpeyi,Nigéria,D,Chippa United,Africa do Sul,GK,32,7,0
+Ogenyi Onazi,Nigéria,D,Trabzonspor,Turquia,MF,25,52,1
+Alex Iwobi,Nigéria,D,Arsenal,Inglaterra,FW,22,18,5
+John Ogu,Nigéria,D,Hapoel Be'er Sheva,Israel,MF,30,19,2
+Chidozie Awaziem,Nigéria,D,Nantes,França,DF,21,4,0
+Tyronne Ebuehi,Nigéria,D,ADO Den Haag,Holanda,DF,22,6,0
+Kenneth Omeruo,Nigéria,D,Kasımpaşa,Turquia,DF,24,39,0
+Francis Uzoho,Nigéria,D,Deportivo Fabril,Espanha,GK,19,5,0
+Alisson,Brasil,E,Roma,Italia,GK,25,25,0
+Thiago Silva,Brasil,E,Paris Saint-Germain,França,DF,33,70,5
+Miranda,Brasil,E,Internazionale,Italia,DF,33,46,2
+Pedro Geromel,Brasil,E,Grêmio,Brasil,DF,32,2,0
+Casemiro,Brasil,E,Real Madrid,Espanha,MF,26,23,0
+Filipe Luís,Brasil,E,Atlético Madrid,Espanha,DF,32,32,2
+Douglas Costa,Brasil,E,Juventus,Italia,FW,27,24,3
+Renato Augusto,Brasil,E,Beijing Sinobo Guoan,China,MF,30,28,5
+Gabriel Jesus,Brasil,E,Manchester City,Inglaterra,FW,21,16,9
+Neymar,Brasil,E,Paris Saint-Germain,França,FW,26,84,54
+Philippe Coutinho,Brasil,E,Barcelona,Espanha,MF,26,36,9
+Marcelo,Brasil,E,Real Madrid,Espanha,DF,30,53,6
+Marquinhos,Brasil,E,Paris Saint-Germain,França,DF,24,25,0
+Danilo,Brasil,E,Manchester City,Inglaterra,DF,26,17,0
+Paulinho,Brasil,E,Barcelona,Espanha,MF,29,49,12
+Cássio,Brasil,E,Corinthians,Brasil,GK,31,1,0
+Fernandinho,Brasil,E,Manchester City,Inglaterra,MF,33,43,2
+Fred,Brasil,E,Shakhtar Donetsk,Ucrania,MF,25,8,0
+Willian,Brasil,E,Chelsea,Inglaterra,MF,29,56,8
+Roberto Firmino,Brasil,E,Liverpool,Inglaterra,FW,26,20,6
+Taison,Brasil,E,Shakhtar Donetsk,Ucrania,FW,30,7,1
+Fagner,Brasil,E,Corinthians,Brasil,DF,29,4,0
+Ederson,Brasil,E,Manchester City,Inglaterra,GK,24,1,0
+Yann Sommer,Suíça,E,Borussia Mönchengladbach,Alemanha,GK,29,35,0
+Stephan Lichtsteiner (captain),Suíça,E,Juventus,Italia,DF,34,99,8
+François Moubandje,Suíça,E,Toulouse,França,DF,27,17,0
+Nico Elvedi,Suíça,E,Borussia Mönchengladbach,Alemanha,DF,21,5,0
+Manuel Akanji,Suíça,E,Borussia Dortmund,Alemanha,DF,22,6,0
+Michael Lang,Suíça,E,Basel,Suiça,DF,27,24,2
+Breel Embolo,Suíça,E,Schalke 04,Alemanha,FW,21,24,3
+Remo Freuler,Suíça,E,Atalanta,Italia,MF,26,9,0
+Haris Seferović,Suíça,E,Benfica,Portugal,FW,26,50,11
+Granit Xhaka,Suíça,E,Arsenal,Inglaterra,MF,25,61,9
+Valon Behrami,Suíça,E,Udinese,Italia,MF,33,78,2
+Yvon Mvogo,Suíça,E,RB Leipzig,Alemanha,GK,24,0,0
+Ricardo Rodríguez,Suíça,E,Milan,Italia,DF,25,52,4
+Steven Zuber,Suíça,E,1899 Hoffenheim,Alemanha,MF,26,11,3
+Blerim Džemaili,Suíça,E,Bologna,Italia,MF,32,64,9
+Gelson Fernandes,Suíça,E,Eintracht Frankfurt,Alemanha,MF,31,67,2
+Denis Zakaria,Suíça,E,Borussia Mönchengladbach,Alemanha,MF,21,10,0
+Mario Gavranović,Suíça,E,Dinamo Zagreb,Croácia,FW,28,13,5
+Josip Drmić,Suíça,E,Borussia Mönchengladbach,Alemanha,FW,25,28,9
+Johan Djourou,Suíça,E,Antalyaspor,Turquia,DF,31,74,2
+Roman Bürki,Suíça,E,Borussia Dortmund,Alemanha,GK,27,8,0
+Fabian Schär,Suíça,E,Deportivo La Coruña,Espanha,DF,26,38,7
+Xherdan Shaqiri,Suíça,E,Stoke City,Inglaterra,MF,26,69,20
+Keylor Navas,Costa Rica,E,Real Madrid,Espanha,GK,31,79,0
+Johnny Acosta,Costa Rica,E,Águilas Doradas,Colombia,DF,34,68,2
+Giancarlo González,Costa Rica,E,Bologna,Italia,DF,30,68,2
+Ian Smith,Costa Rica,E,Norrköping,Suecia,DF,20,2,0
+Celso Borges,Costa Rica,E,Deportivo La Coruña,Espanha,MF,30,111,21
+Óscar Duarte,Costa Rica,E,Espanyol,Espanha,DF,29,38,2
+Christian Bolaños,Costa Rica,E,Saprissa,Costa Rica,MF,34,79,6
+Bryan Oviedo,Costa Rica,E,Sunderland,Inglaterra,DF,28,42,1
+Daniel Colindres,Costa Rica,E,Saprissa,Costa Rica,MF,33,11,0
+Bryan Ruiz (captain),Costa Rica,E,Sporting CP,Portugal,MF,32,109,23
+Johan Venegas,Costa Rica,E,Saprissa,Costa Rica,FW,29,45,10
+Joel Campbell,Costa Rica,E,Real Betis,Espanha,FW,25,75,15
+Rodney Wallace,Costa Rica,E,New York City FC,EUA,MF,29,30,4
+Randall Azofeifa,Costa Rica,E,Herediano,Costa Rica,MF,33,57,3
+Francisco Calvo,Costa Rica,E,Minnesota United,EUA,DF,25,36,4
+Cristian Gamboa,Costa Rica,E,Celtic,Escocia,DF,28,66,3
+Yeltsin Tejeda,Costa Rica,E,Lausanne,Suiça,MF,26,49,0
+Patrick Pemberton,Costa Rica,E,Alajuelense,Costa Rica,GK,36,39,0
+Kendall Waston,Costa Rica,E,Vancouver Whitecaps FC,Canada,DF,30,25,3
+David Guzmán,Costa Rica,E,Portland Timbers,EUA,MF,28,41,0
+Marco Ureña,Costa Rica,E,Los Angeles FC,EUA,FW,28,62,15
+Rónald Matarrita,Costa Rica,E,New York City FC,EUA,DF,23,22,2
+Leonel Moreira,Costa Rica,E,Herediano,Costa Rica,GK,28,9,0
+Vladimir Stojković,Sérvia,E,Partizan,Servia,GK,34,80,0
+Antonio Rukavina,Sérvia,E,Villarreal,Espanha,DF,34,46,0
+Duško Tošić,Sérvia,E,Beşiktaş,Turquia,DF,33,23,1
+Luka Milivojević,Sérvia,E,Crystal Palace,Inglaterra,MF,27,27,1
+Uroš Spajić,Sérvia,E,Anderlecht,Belgica,DF,25,5,0
+Branislav Ivanović,Sérvia,E,Zenit Saint Petersburg,Russia,DF,34,102,12
+Andrija Živković,Sérvia,E,Benfica,Portugal,MF,21,10,0
+Aleksandar Prijović,Sérvia,E,PAOK,Grecia,FW,28,8,1
+Aleksandar Mitrović,Sérvia,E,Fulham,Inglaterra,FW,23,36,13
+Dušan Tadić,Sérvia,E,Southampton,Inglaterra,MF,29,52,13
+Aleksandar Kolarov (captain),Sérvia,E,Roma,Italia,DF,32,75,10
+Predrag Rajković,Sérvia,E,Maccabi Tel Aviv,Israel,GK,22,7,0
+Miloš Veljković,Sérvia,E,Werder Bremen,Alemanha,DF,22,2,0
+Milan Rodić,Sérvia,E,Red Star Belgrade,Servia,DF,27,1,0
+Nikola Milenković,Sérvia,E,Fiorentina,Italia,DF,20,2,0
+Marko Grujić,Sérvia,E,Cardiff City,Pais de Gales,MF,22,7,0
+Filip Kostić,Sérvia,E,Hamburger SV,Alemanha,MF,25,22,2
+Nemanja Radonjić,Sérvia,E,Red Star Belgrade,Servia,FW,22,2,0
+Luka Jović,Sérvia,E,Eintracht Frankfurt,Alemanha,FW,20,1,0
+Sergej Milinković-Savić,Sérvia,E,Lazio,Italia,MF,23,3,0
+Nemanja Matić,Sérvia,E,Manchester United,Inglaterra,MF,29,39,2
+Adem Ljajić,Sérvia,E,Torino,Italia,MF,26,28,5
+Marko Dmitrović,Sérvia,E,Eibar,Espanha,GK,26,2,0
+José de Jesús Corona,México,F,Cruz Azul,Mexico,GK,37,52,0
+Hugo Ayala,México,F,UANL,Mexico,DF,31,42,1
+Carlos Salcedo,México,F,Eintracht Frankfurt,Alemanha,DF,24,20,0
+Rafael Márquez,México,F,Atlas,Mexico,DF,39,144,18
+Diego Reyes,México,F,Porto,Portugal,DF,25,55,1
+Jonathan dos Santos,México,F,LA Galaxy,EUA,MF,28,31,0
+Miguel Layún,México,F,Sevilla,Espanha,MF,29,63,6
+Marco Fabián,México,F,Eintracht Frankfurt,Alemanha,FW,28,38,9
+Raúl Jiménez,México,F,Benfica,Portugal,FW,27,63,13
+Giovani dos Santos,México,F,LA Galaxy,EUA,MF,29,104,19
+Carlos Vela,México,F,Los Angeles FC,EUA,FW,29,68,18
+Alfredo Talavera,México,F,Toluca,Mexico,GK,35,27,0
+Guillermo Ochoa,México,F,Standard Liège,Belgica,GK,32,93,0
+Javier Hernández,México,F,West Ham United,Inglaterra,FW,30,101,49
+Héctor Moreno,México,F,Real Sociedad,Espanha,DF,30,91,3
+Héctor Herrera,México,F,Porto,Portugal,DF,28,65,5
+Jesús Manuel Corona,México,F,Porto,Portugal,MF,25,35,7
+Andrés Guardado (captain),México,F,Real Betis,Espanha,MF,31,144,25
+Oribe Peralta,México,F,América,Mexico,FW,34,66,26
+Javier Aquino,México,F,UANL,Mexico,MF,28,53,0
+Edson Álvarez,México,F,América,Mexico,DF,20,12,1
+Hirving Lozano,México,F,PSV Eindhoven,Holanda,FW,22,27,7
+Jesús Gallardo,México,F,UNAM,Mexico,MF,23,22,0
+Manuel Neuer (captain),Alemanha,F,Bayern Munich,Alemanha,GK,32,75,0
+Marvin Plattenhardt,Alemanha,F,Hertha BSC,Alemanha,DF,26,6,0
+Jonas Hector,Alemanha,F,1. FC Köln,Alemanha,DF,28,37,3
+Matthias Ginter,Alemanha,F,Borussia Mönchengladbach,Alemanha,DF,24,17,0
+Mats Hummels,Alemanha,F,Bayern Munich,Alemanha,DF,29,63,5
+Sami Khedira,Alemanha,F,Juventus,Italia,MF,31,74,7
+Julian Draxler,Alemanha,F,Paris Saint-Germain,França,MF,24,43,6
+Toni Kroos,Alemanha,F,Real Madrid,Espanha,MF,28,82,12
+Timo Werner,Alemanha,F,RB Leipzig,Alemanha,FW,22,13,7
+Mesut Özil,Alemanha,F,Arsenal,Inglaterra,MF,29,90,23
+Marco Reus,Alemanha,F,Borussia Dortmund,Alemanha,FW,29,30,9
+Kevin Trapp,Alemanha,F,Paris Saint-Germain,França,GK,27,3,0
+Thomas Müller,Alemanha,F,Bayern Munich,Alemanha,MF,28,90,38
+Leon Goretzka,Alemanha,F,Schalke 04,Alemanha,MF,23,15,6
+Niklas Süle,Alemanha,F,Bayern Munich,Alemanha,DF,22,10,0
+Antonio Rüdiger,Alemanha,F,Chelsea,Inglaterra,DF,25,24,1
+Jérôme Boateng,Alemanha,F,Bayern Munich,Alemanha,DF,29,70,1
+Joshua Kimmich,Alemanha,F,Bayern Munich,Alemanha,DF,23,28,3
+Sebastian Rudy,Alemanha,F,Bayern Munich,Alemanha,MF,28,25,1
+Julian Brandt,Alemanha,F,Bayer Leverkusen,Alemanha,MF,22,15,1
+İlkay Gündoğan,Alemanha,F,Manchester City,Inglaterra,MF,27,25,4
+Marc-André ter Stegen,Alemanha,F,Barcelona,Espanha,GK,26,19,0
+Mario Gómez,Alemanha,F,VfB Stuttgart,Alemanha,FW,32,74,31
+Robin Olsen,Suécia,F,Copenhagen,Dinamarca,GK,28,16,0
+Mikael Lustig,Suécia,F,Celtic,Escocia,DF,31,64,6
+Victor Lindelöf,Suécia,F,Manchester United,Inglaterra,DF,23,19,1
+Andreas Granqvist (captain),Suécia,F,Krasnodar,Russia,DF,33,70,6
+Martin Olsson,Suécia,F,Swansea City,País de Gales,DF,30,42,5
+Ludwig Augustinsson,Suécia,F,Werder Bremen,Alemanha,DF,24,14,0
+Sebastian Larsson,Suécia,F,Hull City,Inglaterra,MF,33,98,6
+Albin Ekdal,Suécia,F,Hamburger SV,Alemanha,MF,28,32,0
+Marcus Berg,Suécia,F,Al Ain,Emirados Arabes,FW,31,55,18
+Emil Forsberg,Suécia,F,RB Leipzig,Alemanha,MF,26,34,6
+John Guidetti,Suécia,F,Alavés,Espanha,FW,26,20,1
+Karl-Johan Johnsson,Suécia,F,Guingamp,França,GK,28,5,0
+Gustav Svensson,Suécia,F,Seattle Sounders FC,EUA,MF,31,11,0
+Filip Helander,Suécia,F,Bologna,Italia,DF,25,4,0
+Oscar Hiljemark,Suécia,F,Genoa,Italia,MF,25,20,2
+Emil Krafth,Suécia,F,Bologna,Italia,DF,23,11,0
+Viktor Claesson,Suécia,F,Krasnodar,Russia,MF,26,21,3
+Pontus Jansson,Suécia,F,Leeds United,Inglaterra,DF,27,14,0
+Marcus Rohdén,Suécia,F,Crotone,Italia,MF,27,10,1
+Ola Toivonen,Suécia,F,Toulouse,França,FW,31,57,13
+Jimmy Durmaz,Suécia,F,Toulouse,França,MF,29,44,3
+Isaac Kiese Thelin,Suécia,F,Waasland-Beveren,Belgica,FW,25,18,2
+Kristoffer Nordfeldt,Suécia,F,Swansea City,País de Gales,GK,28,8,0
+Kim Seung-gyu,Coreia do Sul,F,Vissel Kobe,Japao,GK,27,32,0
+Lee Yong,Coreia do Sul,F,Jeonbuk Hyundai Motors,Coreia,DF,31,26,0
+Jung Seung-hyun,Coreia do Sul,F,Sagan Tosu,Japao,DF,24,6,0
+Oh Ban-suk,Coreia do Sul,F,Jeju United,Coreia,DF,30,2,0
+Yun Young-sun,Coreia do Sul,F,Seongnam FC,Coreia,DF,29,5,0
+Park Joo-ho,Coreia do Sul,F,Ulsan Hyundai,Coreia,DF,31,35,0
+Son Heung-min,Coreia do Sul,F,Tottenham Hotspur,Inglaterra,FW,25,65,21
+Ju Se-jong,Coreia do Sul,F,Asan Mugunghwa,Coreia,MF,27,10,1
+Kim Shin-wook,Coreia do Sul,F,Jeonbuk Hyundai Motors,Coreia,FW,30,48,10
+Lee Seung-woo,Coreia do Sul,F,Hellas Verona,Italia,MF,20,2,0
+Hwang Hee-chan,Coreia do Sul,F,Red Bull Salzburg,Austria,FW,22,13,2
+Kim Min-woo,Coreia do Sul,F,Sangju Sangmu,Coreia,DF,28,18,1
+Koo Ja-cheol,Coreia do Sul,F,FC Augsburg,Alemanha,MF,29,66,19
+Hong Chul,Coreia do Sul,F,Sangju Sangmu,Coreia,DF,27,14,0
+Jung Woo-young,Coreia do Sul,F,Vissel Kobe,Japao,MF,28,28,1
+Ki Sung-yueng (captain),Coreia do Sul,F,Swansea City,País de Gales,MF,29,100,10
+Lee Jae-sung,Coreia do Sul,F,Jeonbuk Hyundai Motors,Coreia,MF,25,33,6
+Moon Seon-min,Coreia do Sul,F,Incheon United,Coreia,MF,26,2,1
+Kim Young-gwon,Coreia do Sul,F,Guangzhou Evergrande,China,DF,28,51,2
+Jang Hyun-soo,Coreia do Sul,F,FC Tokyo,Japao,DF,26,49,3
+Kim Jin-hyeon,Coreia do Sul,F,Cerezo Osaka,Japao,GK,30,14,0
+Go Yo-han,Coreia do Sul,F,FC Seoul,Coreia,DF,30,19,0
+Cho Hyun-woo,Coreia do Sul,F,Daegu FC,Coreia,GK,26,5,0
+Thibaut Courtois,Bélgica,G,Chelsea,Inglaterra,GK,26,56,0
+Toby Alderweireld,Bélgica,G,Tottenham Hotspur,Inglaterra,DF,29,72,3
+Thomas Vermaelen,Bélgica,G,Barcelona,Espanha,DF,32,64,1
+Vincent Kompany,Bélgica,G,Manchester City,Inglaterra,DF,32,74,4
+Jan Vertonghen,Bélgica,G,Tottenham Hotspur,Inglaterra,DF,31,100,8
+Axel Witsel,Bélgica,G,Tianjin Quanjian,China,MF,29,85,9
+Kevin De Bruyne,Bélgica,G,Manchester City,Inglaterra,MF,26,57,13
+Marouane Fellaini,Bélgica,G,Manchester United,Inglaterra,MF,30,79,16
+Romelu Lukaku,Bélgica,G,Manchester United,Inglaterra,FW,25,64,30
+Eden Hazard (captain),Bélgica,G,Chelsea,Inglaterra,FW,27,82,21
+Yannick Carrasco,Bélgica,G,Dalian Yifang,China,MF,24,23,5
+Simon Mignolet,Bélgica,G,Liverpool,Inglaterra,GK,30,21,0
+Koen Casteels,Bélgica,G,VfL Wolfsburg,Alemanha,GK,25,0,0
+Dries Mertens,Bélgica,G,Napoli,Italia,FW,31,65,13
+Thomas Meunier,Bélgica,G,Paris Saint-Germain,França,DF,26,23,5
+Thorgan Hazard,Bélgica,G,Borussia Mönchengladbach,Alemanha,MF,25,8,1
+Youri Tielemans,Bélgica,G,Monaco,Françå,MF,21,7,0
+Adnan Januzaj,Bélgica,G,Real Sociedad,Espanha,FW,23,7,0
+Mousa Dembélé,Bélgica,G,Tottenham Hotspur,Inglaterra,MF,30,74,5
+Dedryck Boyata,Bélgica,G,Celtic,Escocia,DF,27,5,0
+Michy Batshuayi,Bélgica,G,Borussia Dortmund,Alemanha,FW,24,13,5
+Nacer Chadli,Bélgica,G,West Bromwich Albion,Inglaterra,MF,28,41,4
+Leander Dendoncker,Bélgica,G,Anderlecht,Belgica,DF,23,4,0
+Jaime Penedo,Panamá,G,Dinamo București,Romenia,GK,36,130,0
+Michael Amir Murillo,Panamá,G,New York Red Bulls,EUA,DF,22,21,2
+Harold Cummings,Panamá,G,San Jose Earthquakes,EUA,DF,26,51,0
+Fidel Escobar,Panamá,G,New York Red Bulls,EUA,DF,23,22,1
+Román Torres,Panamá,G,Seattle Sounders FC,EUA,DF,32,110,10
+Gabriel Gómez,Panamá,G,Atlético Bucaramanga,Colombia,MF,34,143,12
+Blas Pérez,Panamá,G,Municipal,Guatemala,FW,37,117,43
+Édgar Bárcenas,Panamá,G,Tapachula,Mexico,MF,24,28,0
+Gabriel Torres,Panamá,G,Huachipato,Chile,FW,29,71,14
+Ismael Díaz,Panamá,G,Deportivo Fabril,Espanha,FW,21,10,2
+Armando Cooper,Panamá,G,Universidad de Chile,Chile,MF,30,97,7
+José Calderón,Panamá,G,Chorrillo,Panama,GK,32,31,0
+Adolfo Machado,Panamá,G,Houston Dynamo,EUA,DF,33,75,1
+Valentín Pimentel,Panamá,G,Plaza Amador,Panama,MF,27,22,1
+Erick Davis,Panamá,G,Dunajská Streda,Servia,DF,27,37,0
+Abdiel Arroyo,Panamá,G,Alajuelense,Costa Rica,FW,24,33,5
+Luis Ovalle,Panamá,G,Olimpia,Paraguai,DF,29,25,0
+Luis Tejada,Panamá,G,Sport Boys,Peru,FW,36,105,43
+Alberto Quintero,Panamá,G,Universitario,Peru,MF,30,89,5
+Aníbal Godoy,Panamá,G,San Jose Earthquakes,EUA,MF,28,88,2
+José Luis Rodríguez,Panamá,G,Gent,Belgica,MF,19,1,0
+Álex Rodríguez,Panamá,G,San Francisco,Panama,GK,27,6,0
+Felipe Baloy (captain),Panamá,G,Municipal,Guatemala,DF,37,102,3
+Farouk Ben Mustapha,Tunísia,G,Al-Shabab,Arabia Saudita,GK,28,15,0
+Syam Ben Youssef,Tunísia,G,Kasımpaşa,Turquia,DF,29,41,1
+Yohan Benalouane,Tunísia,G,Leicester City,Inglaterra,DF,31,3,0
+Yassine Meriah,Tunísia,G,CS Sfaxien,Tunisia,DF,24,15,1
+Oussama Haddadi,Tunísia,G,Dijon,França,DF,26,8,0
+Rami Bedoui,Tunísia,G,Étoile du Sahel,Tunisia,DF,28,8,0
+Saîf-Eddine Khaoui,Tunísia,G,Troyes,França,FW,23,4,0
+Fakhreddine Ben Youssef,Tunísia,G,Al-Ettifaq,Arabia Saudita,FW,26,38,5
+Anice Badri,Tunísia,G,Espérance,Tunisia,MF,27,6,2
+Wahbi Khazri,Tunísia,G,Rennes,França,FW,27,35,12
+Dylan Bronn,Tunísia,G,Gent,Belgica,DF,22,4,0
+Ali Maâloul,Tunísia,G,Al Ahly,Egito,DF,28,45,0
+Ferjani Sassi,Tunísia,G,Al-Nassr,Arabia Saudita,MF,26,38,3
+Mohamed Amine Ben Amor,Tunísia,G,Al-Ahli,Arabia Saudita,MF,26,25,1
+Ahmed Khalil,Tunísia,G,Club Africain,Tunisia,FW,23,3,0
+Aymen Mathlouthi (captain),Tunísia,G,Al-Batin,Arabia Saudita,GK,33,69,0
+Ellyes Skhiri,Tunísia,G,Montpellier,França,MF,23,4,0
+Bassem Srarfi,Tunísia,G,Nice,França,FW,20,4,0
+Saber Khalifa,Tunísia,G,Club Africain,Tunisia,FW,31,43,7
+Ghailene Chaalali,Tunísia,G,Espérance,Tunisia,FW,24,6,1
+Hamdi Nagguez,Tunísia,G,Zamalek,Egito,DF,25,15,0
+Mouez Hassen,Tunísia,G,Châteauroux,França,GK,23,3,0
+Naïm Sliti,Tunísia,G,Dijon,França,FW,25,16,3
+Jordan Pickford,Inglaterra,G,Everton,Inglaterra,GK,24,3,0
+Kyle Walker,Inglaterra,G,Manchester City,Inglaterra,DF,28,35,0
+Danny Rose,Inglaterra,G,Tottenham Hotspur,Inglaterra,DF,27,17,0
+Eric Dier,Inglaterra,G,Tottenham Hotspur,Inglaterra,MF,24,26,3
+John Stones,Inglaterra,G,Manchester City,Inglaterra,DF,24,25,0
+Harry Maguire,Inglaterra,G,Leicester City,Inglaterra,DF,25,4,0
+Jesse Lingard,Inglaterra,G,Manchester United,Inglaterra,MF,25,11,1
+Jordan Henderson,Inglaterra,G,Liverpool,Inglaterra,MF,27,38,0
+Harry Kane (captain),Inglaterra,G,Tottenham Hotspur,Inglaterra,FW,24,24,13
+Raheem Sterling,Inglaterra,G,Manchester City,Inglaterra,FW,23,38,2
+Jamie Vardy,Inglaterra,G,Leicester City,Inglaterra,FW,31,21,7
+Kieran Trippier,Inglaterra,G,Tottenham Hotspur,Inglaterra,DF,27,6,0
+Jack Butland,Inglaterra,G,Stoke City,Inglaterra,GK,25,7,0
+Danny Welbeck,Inglaterra,G,Arsenal,Inglaterra,FW,27,38,15
+Gary Cahill,Inglaterra,G,Chelsea,Inglaterra,DF,32,59,5
+Phil Jones,Inglaterra,G,Manchester United,Inglaterra,DF,26,24,0
+Fabian Delph,Inglaterra,G,Manchester City,Inglaterra,DF,28,10,0
+Ashley Young,Inglaterra,G,Manchester United,Inglaterra,DF,32,34,7
+Marcus Rashford,Inglaterra,G,Manchester United,Inglaterra,FW,20,18,2
+Dele Alli,Inglaterra,G,Tottenham Hotspur,Inglaterra,MF,22,24,2
+Ruben Loftus-Cheek,Inglaterra,G,Crystal Palace,Inglaterra,MF,22,3,0
+Trent Alexander-Arnold,Inglaterra,G,Liverpool,Inglaterra,DF,19,0,0
+Nick Pope,Inglaterra,G,Burnley,Inglaterra,GK,26,0,0
+Wojciech Szczęsny,Polônia,H,Juventus,Italia,GK,28,33,0
+Michał Pazdan,Polônia,H,Legia Warsaw,Polonia,DF,30,31,0
+Artur Jędrzejczyk,Polônia,H,Legia Warsaw,Polonia,DF,30,35,3
+Thiago Cionek,Polônia,H,SPAL,Italia,DF,32,17,0
+Jan Bednarek,Polônia,H,Southampton,Inglaterra,DF,22,1,0
+Jacek Góralski,Polônia,H,Ludogorets Razgrad,Bulgaria,MF,25,3,0
+Arkadiusz Milik,Polônia,H,Napoli,Italia,FW,24,38,12
+Karol Linetty,Polônia,H,Sampdoria,Italia,MF,23,19,1
+Robert Lewandowski (captain),Polônia,H,Bayern Munich,Alemanha,FW,29,93,52
+Grzegorz Krychowiak,Polônia,H,West Bromwich Albion,Inglaterra,MF,28,49,2
+Kamil Grosicki,Polônia,H,Hull City,Inglaterra,MF,30,56,12
+Bartosz Białkowski,Polônia,H,Ipswich Town,Inglaterra,GK,30,1,0
+Maciej Rybus,Polônia,H,Lokomotiv Moscow,Russia,MF,28,49,2
+Łukasz Teodorczyk,Polônia,H,Anderlecht,Belgica,FW,27,15,4
+Kamil Glik,Polônia,H,Monaco,França,DF,30,57,4
+Jakub Błaszczykowski,Polônia,H,VfL Wolfsburg,Alemanha,MF,32,97,19
+Sławomir Peszko,Polônia,H,Lechia Gdańsk,Polonia,MF,33,43,2
+Bartosz Bereszyński,Polônia,H,Sampdoria,Italia,DF,25,6,0
+Piotr Zieliński,Polônia,H,Napoli,Italia,MF,24,31,4
+Łukasz Piszczek,Polônia,H,Borussia Dortmund,Alemanha,DF,33,61,3
+Rafał Kurzawa,Polônia,H,Górnik Zabrze,Polonia,MF,25,3,0
+Łukasz Fabiański,Polônia,H,Swansea City,País de Gales,GK,33,43,0
+Dawid Kownacki,Polônia,H,Sampdoria,Itália,FW,21,1,0
+Abdoulaye Diallo,Senegal,H,Rennes,França,GK,26,16,0
+Saliou Ciss,Senegal,H,Valenciennes,França,DF,28,18,0
+Kalidou Koulibaly,Senegal,H,Napoli,Nápoles,DF,26,24,0
+Kara Mbodji,Senegal,H,Anderlecht,Belgica,DF,28,51,5
+Idrissa Gueye,Senegal,H,Everton,Inglaterra,MF,28,59,1
+Salif Sané,Senegal,H,Hannover 96,Alemanha,MF,27,20,0
+Moussa Sow,Senegal,H,Bursaspor,Turquia,FW,32,50,18
+Cheikhou Kouyaté (captain),Senegal,H,West Ham United,Inglaterra,MF,28,47,2
+Mame Biram Diouf,Senegal,H,Stoke City,Inglaterra,FW,1987,47,10
+Sadio Mané,Senegal,H,Liverpool,Inglaterra,FW,26,51,14
+Cheikh N'Doye,Senegal,H,Birmingham City,Inglaterra,MF,32,24,3
+Youssouf Sabaly,Senegal,H,Bordeaux,França,DF,25,3,0
+Alfred N'Diaye,Senegal,H,Wolverhampton Wanderers,Inglaterra,MF,28,19,0
+Moussa Konaté,Senegal,H,Amiens,França,FW,25,27,9
+Diafra Sakho,Senegal,H,Rennes,França,FW,28,10,3
+Khadim N'Diaye,Senegal,H,Horoya,Guiana,GK,33,25,0
+Badou Ndiaye,Senegal,H,Stoke City,Inglaterra,MF,27,18,1
+Ismaïla Sarr,Senegal,H,Rennes,França,FW,20,14,2
+M'Baye Niang,Senegal,H,Torino,Italia,FW,23,5,0
+Keita Baldé,Senegal,H,Monaco,França,FW,23,17,3
+Lamine Gassama,Senegal,H,Alanyaspor,Turquia,DF,28,35,0
+Moussa Wagué,Senegal,H,Eupen,Belgica,DF,19,9,0
+Alfred Gomis,Senegal,H,SPAL,Italia,GK,24,1,0
+David Ospina,Colômbia,H,Arsenal,,GK,29,86,0
+Cristián Zapata,Colômbia,H,Milan,,DF,31,55,2
+Óscar Murillo,Colômbia,H,Pachuca,,DF,30,13,0
+Santiago Arias,Colômbia,H,PSV Eindhoven,,DF,26,41,0
+Wílmar Barrios,Colômbia,H,Boca Juniors,,MF,24,10,0
+Carlos Sánchez,Colômbia,H,Espanyol,,MF,32,85,0
+Carlos Bacca,Colômbia,H,Villarreal,,FW,31,45,14
+Abel Aguilar,Colômbia,H,Deportivo Cali,,MF,33,70,7
+Radamel Falcao (captain),Colômbia,H,Monaco,,FW,32,73,29
+James Rodríguez,Colômbia,H,Bayern Munich,,MF,26,63,21
+Juan Cuadrado,Colômbia,H,Juventus,,MF,30,70,7
+Camilo Vargas,Colômbia,H,Deportivo Cali,,GK,29,5,0
+Yerry Mina,Colômbia,H,Barcelona,,DF,23,12,3
+Luis Muriel,Colômbia,H,Sevilla,,FW,27,18,2
+Mateus Uribe,Colômbia,H,América,,MF,27,8,0
+Jefferson Lerma,Colômbia,H,Levante,,MF,23,5,0
+Johan Mojica,Colômbia,H,Girona,,DF,25,4,1
+Frank Fabra,Colômbia,H,Boca Juniors,,DF,27,19,1
+Miguel Borja,Colômbia,H,Palmeiras,,FW,25,7,2
+Juan Fernando Quintero,Colômbia,H,River Plate,,MF,25,15,2
+José Izquierdo,Colômbia,H,Brighton & Hove Albion,,FW,25,5,1
+José Fernando Cuadrado,Colômbia,H,Once Caldas,,GK,33,1,0
+Dávinson Sánchez,Colômbia,H,Tottenham Hotspur,,DF,22,9,0
+Eiji Kawashima,Japão,H,Metz,França,GK,35,83,0
+Naomichi Ueda,Japão,H,Kashima Antlers,Japao,DF,23,3,0
+Gen Shoji,Japão,H,Kashima Antlers,Japao,DF,25,10,1
+Keisuke Honda,Japão,H,Pachuca,Mexico,MF,32,94,36
+Yuto Nagatomo,Japão,H,Galatasaray,Turquia,DF,31,104,3
+Wataru Endo,Japão,H,Urawa Red Diamonds,Japao,DF,25,11,0
+Gaku Shibasaki,Japão,H,Getafe,Espanha,MF,26,16,3
+Genki Haraguchi,Japão,H,Fortuna Düsseldorf,Alemanha,MF,27,31,6
+Shinji Okazaki,Japão,H,Leicester City,Inglaterra,FW,32,112,50
+Shinji Kagawa,Japão,H,Borussia Dortmund,Alemanha,MF,29,90,29
+Takashi Usami,Japão,H,Fortuna Düsseldorf,Alemanha,MF,26,22,3
+Masaaki Higashiguchi,Japão,H,Gamba Osaka,Japao,GK,32,4,0
+Yoshinori Mutō,Japão,H,Mainz 05,Alemanha,FW,25,22,2
+Takashi Inui,Japão,H,Eibar,Espanha,MF,30,25,2
+Yuya Osako,Japão,H,1. FC Köln,Alemanha,FW,28,27,7
+Hotaru Yamaguchi,Japão,H,Cerezo Osaka,Japao,MF,27,41,2
+Makoto Hasebe (captain),Japão,H,Eintracht Frankfurt,Alemanha,MF,34,109,2
+Ryota Oshima,Japão,H,Kawasaki Frontale,Japão,MF,25,4,0
+Hiroki Sakai,Japão,H,Marseille,FRança,DF,28,41,0
+Tomoaki Makino,Japão,H,Urawa Red Diamonds,Japão,DF,31,31,4
+Gōtoku Sakai,Japão,H,Hamburger SV,Alemanha,DF,27,39,0
+Maya Yoshida,Japão,H,Southampton,Inglaterra,DF,29,81,10
+Kosuke Nakamura,Japão,H,Kashiwa Reysol,Japao,GK,23,3,0

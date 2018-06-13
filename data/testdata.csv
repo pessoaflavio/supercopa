@@ -1,0 +1,16 @@
+origin,destination,vol
+Sydney,Valparaiso,0.246
+Honolulu,Sydney,0.139
+Melbourne,Honolulu,0.135
+Shanghai,Melbourne,0.109
+Iquique,Shanghai,0.098
+Callao,Iquique,0.061
+Guaymas,Callao,0.049
+Adelaide,Guaymas,0.035
+Coquimbo,Adelaide,0.03378
+Callao,Coquimbo,1
+Fiji,Noumea,0.015
+Yokohama,Fiji,0.010
+Antofagasto,Yokohama,0.009
+Tahiti,Antofagasto,0.008
+Sydney,Tahiti,0.007

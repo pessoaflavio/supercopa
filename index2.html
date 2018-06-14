@@ -7,21 +7,27 @@
 	<!--<script src="https://d3js.org/d3-geo-projection.v4.min.js"></script>-->
 
 <style>
-body {
-    font-family: Arial;
-    font-size: 8px;
-}
-.route {
-    fill: none;
-    stroke: #f16464;
-}
-.land { 
-    fill:#333; 
-    stroke: #424242
-}
-svg {
-    background: #424242;
-}
+
+    body {
+        font-family: Arial;
+        font-size: 8px;
+    }
+
+	.route {
+		fill: none;
+		/*stroke: #333;*/
+		stroke: #f16464;
+	}
+
+	.land { fill:#333; }
+	
+	svg { background: #424242; }
+
+	.source-port {
+		fill: white; 
+		stroke: darkgreen; 
+		stroke-width: 2px;
+	}
 </style>
 
 	
@@ -32,7 +38,7 @@ svg {
 	
 var width = 2000; var height = 1000;
 
-var projection = d3.geoMercator()
+var projection = d3.geoMercator();
 
 var path = d3.geoPath().projection(projection);
 
@@ -47,8 +53,7 @@ d3.json("data/world.json",function(error,world) {
 	g1.insert("path")
 		.datum(topojson.feature(world, world.objects.countries))
 		.attr("class", "land")
-		.attr("d", path)
-		;
+		.attr("d", path);
 		
 	drawTrade();
 	});
@@ -68,25 +73,37 @@ function drawTrade() {
 		
 		console.log(groupKeys);
 		
-		
-		routePath = g1.selectAll(".route")
-			.data(groupKeys)
-			.enter()
-			.append("path")
-			.attr("class","route")
-			.attr("id",function(d,i){return "#id_" + i + "_" + d[0].pais + "_" + d[0].paisclube;})
+		var line = d3.line()
+            .x(function (d) {return path(ports[d[0].pais].loc[0]);})
+            .y(function (d) {return path(ports[d[0].pais].loc[1]);})
+            ;
+        
+        // Add the path
+        svg.append('path')
+            .attr("class","route")
+			.attr("d", line(groupKeys))
 			.style("stroke-width", function(d) { 
 				return d.length;
 			})
-			.attr('d', function(d) {
-				return path ({ 
-				type:"LineString",
-				coordinates: [ ports[d[0].pais].loc,ports[d[0].paisclube].loc ]
-				});
-			})
-			.on('mouseover', function(d){console.log(d)})
-			.on('mouseout', handleMouseOut)
 			;
+
+// 		routePath = g1.selectAll(".route")
+// 			.data(groupKeys)
+// 			.enter()
+// 			.append("path")
+// 			.attr("class","route")
+// 			.style("stroke-width", function(d) { 
+// 				return d.length;
+// 			})
+// 			.attr('d', function(d) {
+// 				return path ({ 
+// 				type:"LineString",
+// 				coordinates: [ ports[d[0].pais].loc,ports[d[0].paisclube].loc ]
+// 				});
+// 			})
+// 			.on('mouseover', function(d){console.log(d)})
+// 			.on('mouseout', handleMouseOut)
+// 			;
 			
 			// Create Event Handlers for mouse
             function handleMouseOver(d, i) {  // Add interactivity
@@ -134,7 +151,7 @@ var ports = {
     "Bélgica":{loc:[4.469936,50.503887]},
     "Brasil":{loc:[-51.92528,-14.235004]},
     "Bulgaria":{loc:[25.48583,42.733883]},
-    "Canadá":{loc:[-106.346771,56.130366]},
+    "Canada":{loc:[-106.346771,56.130366]},
     "Chile":{loc:[-71.542969,-35.675147]},
     "China":{loc:[104.195397,35.86166]},
     "Colombia":{loc:[-74.297333,4.570868]},

@@ -3,6 +3,7 @@
 <head>
 	<script src="https://d3js.org/d3.v4.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/1.6.19/topojson.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.9.1/underscore.js"></script>
 	<!--<script src="https://d3js.org/d3-geo-projection.v4.min.js"></script>-->
 
 <style>
@@ -14,13 +15,13 @@
 
 	.route {
 		fill: none;
-		stroke: #333;
-		opacity: 0.1;
+		/*stroke: #333;*/
+		stroke: #f16464;
 	}
 
-	.land { fill:#a8ddb5; }
+	.land { fill:#333; }
 	
-	svg { background: #43a2ca; }
+	svg { background: #424242; }
 
 	.source-port {
 		fill: white; 
@@ -51,7 +52,6 @@ var svg = d3.select("#map").append("svg")
 	
 // Create a few groups to layer elements correctly
 var g1 = svg.append("g");  
-var g2 = svg.append("g"); 
 
 d3.json("data/world.json",function(error,world) {
 	g1.insert("path")
@@ -59,63 +59,72 @@ d3.json("data/world.json",function(error,world) {
 		.attr("class", "land")
 		.attr("d", path);
 		
-// 	g2.append("circle")
-// 		.attr("cx", function() { return projection(ports["Puget Sound"].loc)[0];})
-// 		.attr("cy", function() { return projection(ports["Puget Sound"].loc)[1];})
-// 		.attr("r",20)
-// 		.attr("class","source-port");
-	
-// 	g2.append("text")
-// 		.attr("x", function() { return projection(ports["Puget Sound"].loc)[0] + 5;})
-// 		.attr("y", function() { return projection(ports["Puget Sound"].loc)[1] + 0;})
-// 		.text("Puget Sound");
-		
 	drawTrade();
 	});
 	
 // Draw a set of routes 
 function drawTrade() {
-	d3.csv("data/dadosCopa.csv", function (error, routes) {
+	d3.json("data/dadosCopa.json", function (error, routes) {
 		var maxVolume = d3.max(routes, function(d) { return d.jogos; });
 		
 		console.log(routes);
+        
+        var groups = _.groupBy(routes, function(d){
+            return d.pais + '#' + d.paisclube;
+        });
+		
+		var groupKeys = _.values(groups);
+		
+		console.log(groupKeys);
 		
 		routePath = g1.selectAll(".route")
-			.data(routes)
+			.data(groupKeys)
 			.enter()
 			.append("path")
 			.attr("class","route")
-// 			.style("stroke-width", function(d) { 
-// 				return 0.01 * d.jogos;
-// 			})
-			.style("stroke-width", 1)
+			.style("stroke-width", function(d) { 
+				return d.length;
+			})
 			.attr('d', function(d) {
 				return path ({ 
 				type:"LineString",
-				coordinates: [ ports[d.pais].loc,ports[d.paisclube].loc ]
+				coordinates: [ ports[d[0].pais].loc,ports[d[0].paisclube].loc ]
 				});
 			})
+			.on('mouseover', function(d){console.log(d)})
+			.on('mouseout', handleMouseOut)
+			;
+			
+			// Create Event Handlers for mouse
+            function handleMouseOver(d, i) {  // Add interactivity
 
-// 		portMarkers = g1.selectAll(".ports")
-// 			.data(routes)
-// 			.enter()
-// 			.append("circle")
-// 			.attr("class","ports")
-// 			.attr("cx", function(d) { return projection(ports[d.destination].loc)[0] } )
-// 			.attr("cy", function(d) { return projection(ports[d.destination].loc)[1] } )
-// 			.attr("r", function(d) { return d.vol * 25 })
-// 			.style("fill","white")
-// 			.style("stroke-width",2)
-// 			.style("stroke","red");
-		
-// 		portLabels = g2.selectAll(".port-labels")
-// 			.data(routes)
-// 			.enter()
-// 			.append("text")
-// 			.attr("x", function(d) { return projection(ports[d.destination].loc)[0] + ports[d.destination].off[0] } )
-// 			.attr("y", function(d) { return projection(ports[d.destination].loc)[1] - ports[d.destination].off[1] } )
-// 			.text(function(d) { return d.destination })
-// 			.attr("class","port-label");
+                // Use D3 to select element, change color and size
+                d3.select(this).attr({
+                  stroke: "#b3dbac"
+                });
+    
+                // Specify where to put label of text
+                svg.append("text").attr({
+                   id: "t" + d[0].pais + "-" + d[0].paistime + "-" + i,  // Create an id for text so we can select it later for removing on mouseout
+                    x: function() { return 50 },
+                    y: function() { return 300 }
+                })
+                .text(function() {
+                  return ['Pais de Origem: ' + d[0].pais + '; Pais onde Joga: ' +  d[0].paistime];  // Value of the text
+                });
+            }
+
+            function handleMouseOut(d, i) {
+            // Use D3 to select element, change color back to normal
+            d3.select(this).attr({
+              stroke: "#f16464"
+            });
+
+            // Select text by id and then remove
+            d3.select("#t" + d[0].pais + "-" + d[0].paistime + "-" + i).remove();  // Remove text location
+            }
+
+
 		});
 	}
 
@@ -198,6 +207,8 @@ var ports = {
     "Ucrania":{loc:[31.16558,48.379433]},
     "Uruguai":{loc:[-55.765835,-32.522779]}
 };
+	
+	
 	
 
 	</script>

@@ -13,7 +13,7 @@ body {
 }
 .route {
     fill: none;
-    stroke: #f16464;
+    /*stroke: #f16464;*/
 }
 .land { 
     fill:#333; 
@@ -22,12 +22,21 @@ body {
 svg {
     background: #424242;
 }
+.textholder {
+    position: fixed;
+    top: 300px;
+    left: 50px;
+    z-index: 1;
+}
+
 </style>
 
 	
 </head>
 <body>
 	<div id="map"> </div>
+
+</body>
 	<script>
 	
 var width = 2000; var height = 1000;
@@ -53,6 +62,30 @@ d3.json("data/world.json",function(error,world) {
 	drawTrade();
 	});
 	
+//color
+var defs = svg.append("defs");
+
+var gradient = defs.append("linearGradient")
+   .attr("id", "svgGradient")
+   .attr("x1", "0%")
+   .attr("x2", "100%")
+   .attr("y1", "0%")
+   .attr("y2", "100%");
+
+gradient.append("stop")
+   .attr('class', 'start')
+   .attr("offset", "0%")
+   .attr("stop-color", "#693163")
+   .attr("stop-opacity", 1);
+
+gradient.append("stop")
+   .attr('class', 'end')
+   .attr("offset", "100%")
+   .attr("stop-color", "#00b5ad")
+   .attr("stop-opacity", 1);
+	
+	
+	
 // Draw a set of routes 
 function drawTrade() {
 	d3.json("data/dadosCopa.json", function (error, routes) {
@@ -69,11 +102,13 @@ function drawTrade() {
 		console.log(groupKeys);
 		
 		
-		routePath = g1.selectAll(".route")
+		var routePath = g1.selectAll(".route")
 			.data(groupKeys)
 			.enter()
 			.append("path")
 			.attr("class","route")
+            .attr("stroke", "url(#svgGradient)")
+            .attr("stroke-linecap", "round")
 			.attr("id",function(d,i){return "#id_" + i + "_" + d[0].pais + "_" + d[0].paisclube;})
 			.style("stroke-width", function(d) { 
 				return d.length;
@@ -84,7 +119,7 @@ function drawTrade() {
 				coordinates: [ ports[d[0].pais].loc,ports[d[0].paisclube].loc ]
 				});
 			})
-			.on('mouseover', function(d){console.log(d)})
+			.on('mouseover', handleMouseOver)
 			.on('mouseout', handleMouseOut)
 			;
 			
@@ -96,15 +131,25 @@ function drawTrade() {
                   stroke: "#b3dbac"
                 });
     
+                
+                var newContent = [];
+                
+                newContent.push(d);
+                console.log(newContent);
+    
                 // Specify where to put label of text
-                svg.append("text").attr({
-                   id: "t" + d[0].pais + "-" + d[0].paistime + "-" + i,  // Create an id for text so we can select it later for removing on mouseout
-                    x: function() { return 50 },
-                    y: function() { return 300 }
-                })
-                .text(function() {
-                  return ['Pais de Origem: ' + d[0].pais + '; Pais onde Joga: ' +  d[0].paistime];  // Value of the text
-                });
+                d3.select('body')
+                .selectAll(".textholder")
+                .data(newContent)
+                .enter()
+                .append('div')
+                .attr('class', 'textholder')
+                .attr('id', function(d) {return "t_" + d[0].pais;})
+                .html('Pais de Origem: ' + d[0].pais + ';<br> Pais onde Joga: ' +  d[0].paisclube)
+                .attr('top', '50')
+                .attr('left', '300')
+                ;
+                
             }
 
             function handleMouseOut(d, i) {
@@ -114,7 +159,7 @@ function drawTrade() {
             });
 
             // Select text by id and then remove
-            d3.select("#t" + d[0].pais + "-" + d[0].paistime + "-" + i).remove();  // Remove text location
+            d3.select("#t_" + d[0].pais).remove();  // Remove text location
             }
 
 
@@ -205,6 +250,4 @@ var ports = {
 	
 
 	</script>
-
-</body>
 </html>
